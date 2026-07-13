@@ -1,0 +1,9 @@
+node_modules/
+uploads/
+data/
+*.tmp
+*.log
+gen.js
+themes.html.tmp
+themes.css.tmp
+.env
